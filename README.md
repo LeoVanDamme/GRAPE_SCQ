@@ -1,4 +1,4 @@
-# Description
+# Description:
 You can find a description here: [Description.pdf](Docs/Description.pdf)
 
 # Installation:
@@ -8,5 +8,5 @@ You can find a description here: [Description.pdf](Docs/Description.pdf)
 4. Open the folder.
 5. Run the jupyter notebooks inside.
 
-# Requirements
+# Requirements:
 This code uses numpy, numba, scipy (in particular scipy.optimize), matplotlib, and copy.
