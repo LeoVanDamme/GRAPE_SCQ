@@ -3,8 +3,14 @@ message: "If you use this software, please cite it as below."
 title: "GRAPE_SQC"
 version: "1.0"
 authors:
-  - family-names: "Van Damme, Devra, Malvetti, Glaser"
-    given-names: "L{}'eo, Amit, Emanuel, Steffen J."
-    orcid: "https://orcid.org/0000-0002-4311-2497"  # optional
+  - family-names: "Van Damme"
+    given-names: "Léo"
+    orcid: "https://orcid.org/0000-0002-4311-2497"
+  - family-names: "Devra"
+    given-names: "Amit"
+  - family-names: "Malvetti"
+    given-names: "Emanuel"
+  - family-names: "Glaser"
+    given-names: "Steffen J."
 date-released: 2025-11-18
 url: "https://github.com/LeoVanDamme/GRAPE_SCQ"
