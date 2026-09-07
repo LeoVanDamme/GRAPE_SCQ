@@ -17,3 +17,4 @@ doc/*.out
 doc/*.toc
 doc/*.synctex.gz
 doc/*.tex
+doc/figures/
