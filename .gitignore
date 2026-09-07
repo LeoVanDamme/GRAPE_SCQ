@@ -16,3 +16,4 @@ doc/*.log
 doc/*.out
 doc/*.toc
 doc/*.synctex.gz
+doc/*.tex
